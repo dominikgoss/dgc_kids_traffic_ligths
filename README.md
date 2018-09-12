@@ -1,0 +1,9 @@
+# dgc_kids_traffic_ligths
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
+# dgc_kids_traffic_ligths
