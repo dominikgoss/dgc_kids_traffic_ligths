@@ -1,9 +1,4 @@
 # dgc_kids_traffic_ligths
 
-A new Flutter project.
+A simple Flutter project - simple game to teach children trafic lights.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-# dgc_kids_traffic_ligths
